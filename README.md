@@ -45,9 +45,11 @@ kingpeped -daemon
 📌 Check if Your Wallet is Connected
 After restarting the wallet, check if it’s connected to the network by using the following commands in the Console:
 
-getpeerinfo
+kingpepe-cli getpeerinfo
 
-getconnectioncount
+
+kingpepe-cli getconnectioncount
+
 
 
 If your wallet is successfully connected, it will display a list of connected nodes and the current number of active connections.
