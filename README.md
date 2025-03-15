@@ -24,9 +24,13 @@ Save the file and restart your wallet.
 
 🔹 For Linux
 Open a Terminal and navigate to the wallet directory:
+
 cd ~/.kingpepe/
+
 Edit the kingpepe.conf file (or create one if it doesn’t exist):
+
 nano kingpepe.conf
+
 Add the following nodes:
 
 addnode=kpepesolo.pool.sexy:21053
