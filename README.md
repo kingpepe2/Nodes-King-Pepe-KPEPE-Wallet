@@ -1,6 +1,8 @@
 To ensure your King Pepe (KPEPE) wallet connects to the correct network nodes, you need to modify the kingpepe.conf file and add the following nodes:
 
 addnode=kpepesolo.pool.sexy:21053
+
+
 addnode=kpepe.pool.sexy:11053
 
 🔹 For Windows
@@ -13,6 +15,8 @@ Look for the kingpepe.conf file. If it doesn’t exist, create a new text docume
 Open the file with Notepad or Notepad++ and add the following lines:
 
 addnode=kpepesolo.pool.sexy:21053
+
+
 addnode=kpepe.pool.sexy:11053
 
 Save the file and restart your wallet.
@@ -24,8 +28,11 @@ cd ~/.kingpepe/
 Edit the kingpepe.conf file (or create one if it doesn’t exist):
 nano kingpepe.conf
 Add the following nodes:
+
 addnode=kpepesolo.pool.sexy:21053
+
 addnode=kpepe.pool.sexy:11053
+
 Save the file by pressing Ctrl + X, then Y, and Enter.
 Restart your wallet using:
 
