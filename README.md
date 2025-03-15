@@ -37,6 +37,8 @@ After restarting the wallet, check if it’s connected to the network by using t
 getpeerinfo
 
 getconnectioncount
+
+
 If your wallet is successfully connected, it will display a list of connected nodes and the current number of active connections.
 
 ✅ Your wallet is now properly connected to the King Pepe network! 🚀
